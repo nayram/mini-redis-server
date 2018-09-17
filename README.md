@@ -1,4 +1,4 @@
-# mini_rails_server
+# mini_redis_server
 
 FIXME
 
