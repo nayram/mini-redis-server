@@ -1,4 +1,4 @@
-# mini_redis_server
+# rails_server
 
 FIXME
 
